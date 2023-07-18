@@ -1,3 +1,7 @@
+# JSON Web Token
+
+A practice exercice learned from John Smilga
+
 ### TODO
 
-- [ ] Authorization middleware
+- [x] Authorization middleware
